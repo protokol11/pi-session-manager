@@ -1,0 +1,5 @@
+{"type":"session","version":3,"id":"sample-id","timestamp":"2026-01-01T00:00:00.000Z","cwd":"C:\\Users\\HOME\\proj"}
+{"type":"message","id":"m1","timestamp":"2026-01-01T00:00:01.000Z","message":{"role":"user","content":"hello"}}
+{"type":"session_info","id":"s1","timestamp":"2026-01-01T00:00:02.000Z","name":"my-name"}
+{"type":"message","id":"m2","timestamp":"2026-01-01T00:00:03.000Z","message":{"role":"assistant","content":[{"type":"text","text":"world"},{"type":"thinking","thinking":"hmm"}]}}
+{"type":"model_change","id":"c1","timestamp":"2026-01-01T00:00:04.000Z","provider":"prov","modelId":"m1"}
